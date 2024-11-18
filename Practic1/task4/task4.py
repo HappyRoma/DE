@@ -26,7 +26,7 @@ def write_results(data):
 
 def write_filtered_table(data):
     filtered_data = data[data["quantity"] > 579]
-    pd.DataFrame(filtered_data).to_csv("filtered_result.txt", sep=",", index=False)
+    pd.DataFrame(filtered_data).to_csv("filtered_result.csv", sep=",", index=False)
 
 rewrite_source_file(read_csv_file())
 
