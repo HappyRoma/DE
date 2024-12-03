@@ -1,0 +1,142 @@
+[
+    {
+        "price": 800000,
+        "beds": 2,
+        "baths": 2.0,
+        "sqft": 2156.0,
+        "sqft_lot": null,
+        "year": 1999,
+        "type": "Condos",
+        "garage_capacity": 1
+    },
+    {
+        "price": 668000,
+        "beds": 9,
+        "baths": 3.0,
+        "sqft": 3317.0,
+        "sqft_lot": 5227.0,
+        "year": 1912,
+        "type": "Multi Family",
+        "garage_capacity": null
+    },
+    {
+        "price": 655000,
+        "beds": 8,
+        "baths": 3.0,
+        "sqft": 3042.0,
+        "sqft_lot": 6534.0,
+        "year": 1884,
+        "type": "Multi Family",
+        "garage_capacity": null
+    },
+    {
+        "price": 633500,
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1648.0,
+        "sqft_lot": 4356.0,
+        "year": 1909,
+        "type": "Single Family",
+        "garage_capacity": null
+    },
+    {
+        "price": 577500,
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2952.0,
+        "sqft_lot": 24.0,
+        "year": 1991,
+        "type": "Single Family",
+        "garage_capacity": 2
+    },
+    {
+        "price": 500000,
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 1836.0,
+        "sqft_lot": 45.0,
+        "year": 1974,
+        "type": "Single Family",
+        "garage_capacity": 2
+    },
+    {
+        "price": 480250,
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 3055.0,
+        "sqft_lot": 33.0,
+        "year": 1969,
+        "type": "Single Family",
+        "garage_capacity": 2
+    },
+    {
+        "price": 460000,
+        "beds": 2,
+        "baths": 1.5,
+        "sqft": 1208.0,
+        "sqft_lot": 5663.0,
+        "year": 1923,
+        "type": "Single Family",
+        "garage_capacity": 1
+    },
+    {
+        "price": 390000,
+        "beds": 3,
+        "baths": 2.0,
+        "sqft": 1417.0,
+        "sqft_lot": 47.0,
+        "year": 1955,
+        "type": "Single Family",
+        "garage_capacity": 1
+    },
+    {
+        "price": 365000,
+        "beds": 5,
+        "baths": 2.0,
+        "sqft": 1840.0,
+        "sqft_lot": 24.0,
+        "year": 1966,
+        "type": "Single Family",
+        "garage_capacity": 2
+    },
+    {
+        "price": 349900,
+        "beds": 3,
+        "baths": 2.0,
+        "sqft": 1483.0,
+        "sqft_lot": 25.0,
+        "year": 1991,
+        "type": "Single Family",
+        "garage_capacity": 2
+    },
+    {
+        "price": 300000,
+        "beds": 2,
+        "baths": 2.0,
+        "sqft": 1305.0,
+        "sqft_lot": null,
+        "year": 1999,
+        "type": "Condos",
+        "garage_capacity": 2
+    },
+    {
+        "price": 289900,
+        "beds": 2,
+        "baths": 2.0,
+        "sqft": 1539.0,
+        "sqft_lot": null,
+        "year": 2008,
+        "type": "Condos",
+        "garage_capacity": 2
+    },
+    {
+        "price": 144500,
+        "beds": 3,
+        "baths": 1.5,
+        "sqft": 1040.0,
+        "sqft_lot": 7841.0,
+        "year": 1958,
+        "type": "Single Family",
+        "garage_capacity": 2
+    }
+]

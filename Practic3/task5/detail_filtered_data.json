@@ -1,0 +1,12 @@
+[
+    {
+        "price": 289900,
+        "beds": 2,
+        "baths": 2.0,
+        "sqft": 1539.0,
+        "sqft_lot": null,
+        "year": 2008,
+        "type": "Condos",
+        "garage_capacity": 2
+    }
+]
