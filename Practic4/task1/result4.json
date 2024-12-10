@@ -1,0 +1,177 @@
+[
+    {
+        "id":52,
+        "title":"Под стеклянным колпаком",
+        "price":2929,
+        "place":"online",
+        "date":"12.1.2001"
+    },
+    {
+        "id":23,
+        "title":"Алхимик",
+        "price":2875,
+        "place":"offline",
+        "date":"4.12.2010"
+    },
+    {
+        "id":17,
+        "title":"Гарри Поттер и Философский камень",
+        "price":2839,
+        "place":"online",
+        "date":"1.12.2019"
+    },
+    {
+        "id":26,
+        "title":"Человек-невидимка",
+        "price":2676,
+        "place":"online",
+        "date":"8.11.2016"
+    },
+    {
+        "id":18,
+        "title":"Слепота",
+        "price":2639,
+        "place":"online",
+        "date":"9.9.2010"
+    },
+    {
+        "id":6,
+        "title":"Ватек",
+        "price":2611,
+        "place":"online",
+        "date":"18.5.2001"
+    },
+    {
+        "id":39,
+        "title":"Зеленая миля",
+        "price":2571,
+        "place":"online",
+        "date":"21.10.2022"
+    },
+    {
+        "id":43,
+        "title":"Американские горки",
+        "price":2540,
+        "place":"offline",
+        "date":"5.2.2012"
+    },
+    {
+        "id":3,
+        "title":"Дракула",
+        "price":2448,
+        "place":"online",
+        "date":"22.5.2011"
+    },
+    {
+        "id":9,
+        "title":"Большие надежды",
+        "price":2438,
+        "place":"offline",
+        "date":"1.12.2006"
+    },
+    {
+        "id":35,
+        "title":"На игле",
+        "price":2413,
+        "place":"online",
+        "date":"18.1.2005"
+    },
+    {
+        "id":22,
+        "title":"Маленький принц",
+        "price":2168,
+        "place":"offline",
+        "date":"18.4.2023"
+    },
+    {
+        "id":8,
+        "title":"Ночная стража",
+        "price":2158,
+        "place":"offline",
+        "date":"5.1.2006"
+    },
+    {
+        "id":30,
+        "title":"Имя розы",
+        "price":2127,
+        "place":"offline",
+        "date":"14.1.2012"
+    },
+    {
+        "id":24,
+        "title":"Плавучий трава",
+        "price":2025,
+        "place":"offline",
+        "date":"23.11.2017"
+    },
+    {
+        "id":27,
+        "title":"Идиот",
+        "price":2015,
+        "place":"offline",
+        "date":"18.12.2010"
+    },
+    {
+        "id":42,
+        "title":"Исчезнувшая",
+        "price":1959,
+        "place":"offline",
+        "date":"23.9.2002"
+    },
+    {
+        "id":51,
+        "title":"Мертвые души",
+        "price":1958,
+        "place":"offline",
+        "date":"14.4.2008"
+    },
+    {
+        "id":19,
+        "title":"Бойня номер пять, или Крестовый поход детей",
+        "price":1903,
+        "place":"online",
+        "date":"22.11.2008"
+    },
+    {
+        "id":33,
+        "title":"Женщина в песках",
+        "price":1888,
+        "place":"offline",
+        "date":"2.7.2017"
+    },
+    {
+        "id":34,
+        "title":"Падение дома Ашеров",
+        "price":1817,
+        "place":"online",
+        "date":"5.4.2005"
+    },
+    {
+        "id":15,
+        "title":"Волхв",
+        "price":1799,
+        "place":"offline",
+        "date":"6.8.2022"
+    },
+    {
+        "id":7,
+        "title":"Бесконечная история",
+        "price":1772,
+        "place":"offline",
+        "date":"10.1.2005"
+    },
+    {
+        "id":41,
+        "title":"Гордость и предубеждение",
+        "price":1257,
+        "place":"offline",
+        "date":"11.9.2012"
+    },
+    {
+        "id":47,
+        "title":"Повелитель мух",
+        "price":1026,
+        "place":"offline",
+        "date":"26.5.2014"
+    }
+]
