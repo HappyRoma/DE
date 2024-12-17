@@ -1,0 +1,62 @@
+[
+    {
+        "School Year": 2024,
+        "District Code": 32,
+        "Organization": "Red Clay Consolidated School District",
+        "ScaleScoreAvg": 2723.63
+    },
+    {
+        "School Year": 2024,
+        "District Code": 31,
+        "Organization": "duPont (Pierre S.) Middle School",
+        "ScaleScoreAvg": 2721.87
+    },
+    {
+        "School Year": 2019,
+        "District Code": 31,
+        "Organization": "duPont (Pierre S.) Middle School",
+        "ScaleScoreAvg": 2719.75
+    },
+    {
+        "School Year": 2015,
+        "District Code": 32,
+        "Organization": "Red Clay Consolidated School District",
+        "ScaleScoreAvg": 2719.3
+    },
+    {
+        "School Year": 2016,
+        "District Code": 89,
+        "Organization": "Newark Charter School",
+        "ScaleScoreAvg": 2711.99
+    },
+    {
+        "School Year": 2015,
+        "District Code": 31,
+        "Organization": "duPont (Pierre S.) Middle School",
+        "ScaleScoreAvg": 2706.63
+    },
+    {
+        "School Year": 2024,
+        "District Code": 32,
+        "Organization": "duPont (H.B.) Middle School",
+        "ScaleScoreAvg": 2705.76
+    },
+    {
+        "School Year": 2024,
+        "District Code": 32,
+        "Organization": "Calloway (Cab) School of the Arts",
+        "ScaleScoreAvg": 2701.28
+    },
+    {
+        "School Year": 2024,
+        "District Code": 31,
+        "Organization": "duPont (Pierre S.) Middle School",
+        "ScaleScoreAvg": 2700.25
+    },
+    {
+        "School Year": 2023,
+        "District Code": 89,
+        "Organization": "Newark Charter School",
+        "ScaleScoreAvg": 2699.82
+    }
+]

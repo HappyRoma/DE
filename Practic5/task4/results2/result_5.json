@@ -1,0 +1,58 @@
+[
+    {
+        "_id": "6th Grade",
+        "avg_score": 2526.3586779184247
+    },
+    {
+        "_id": "3rd Grade",
+        "avg_score": 2430.6702575587906
+    },
+    {
+        "_id": "7th Grade",
+        "avg_score": 2088.860959651036
+    },
+    {
+        "_id": "4th Grade",
+        "avg_score": 2056.0674722222225
+    },
+    {
+        "_id": "5th Grade",
+        "avg_score": 1856.1434661654137
+    },
+    {
+        "_id": "8th Grade",
+        "avg_score": 1728.1821565059145
+    },
+    {
+        "_id": "All Students",
+        "avg_score": 1318.3705417867436
+    },
+    {
+        "_id": "9th Grade",
+        "avg_score": 598.8557851239669
+    },
+    {
+        "_id": "10th Grade",
+        "avg_score": 580.9532818532819
+    },
+    {
+        "_id": "Twelfth",
+        "avg_score": 410.5375
+    },
+    {
+        "_id": "11th Grade",
+        "avg_score": 394.05410468319565
+    },
+    {
+        "_id": "12th Grade",
+        "avg_score": 326.289375
+    },
+    {
+        "_id": "1st Grade",
+        "avg_score": 271.63
+    },
+    {
+        "_id": "Kindergarten",
+        "avg_score": 200.91500000000002
+    }
+]

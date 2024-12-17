@@ -1,0 +1,82 @@
+[
+    {
+        "_id": "Менеджер",
+        "total_employees": 62,
+        "avg_salary": 119489.08064516129
+    },
+    {
+        "_id": "Медсестра",
+        "total_employees": 83,
+        "avg_salary": 117612.39759036145
+    },
+    {
+        "_id": "Программист",
+        "total_employees": 78,
+        "avg_salary": 116551.7564102564
+    },
+    {
+        "_id": "Психолог",
+        "total_employees": 68,
+        "avg_salary": 113875.30882352941
+    },
+    {
+        "_id": "Архитектор",
+        "total_employees": 79,
+        "avg_salary": 113373.32911392405
+    },
+    {
+        "_id": "Строитель",
+        "total_employees": 70,
+        "avg_salary": 113224.85714285714
+    },
+    {
+        "_id": "IT-специалист",
+        "total_employees": 88,
+        "avg_salary": 111201.71590909091
+    },
+    {
+        "_id": "Врач",
+        "total_employees": 62,
+        "avg_salary": 109285.08064516129
+    },
+    {
+        "_id": "Оператор call-центра",
+        "total_employees": 74,
+        "avg_salary": 108985.0
+    },
+    {
+        "_id": "Продавец",
+        "total_employees": 75,
+        "avg_salary": 107977.88
+    },
+    {
+        "_id": "Повар",
+        "total_employees": 75,
+        "avg_salary": 107969.82666666666
+    },
+    {
+        "_id": "Водитель",
+        "total_employees": 77,
+        "avg_salary": 107370.09090909091
+    },
+    {
+        "_id": "Косметолог",
+        "total_employees": 74,
+        "avg_salary": 106794.18918918919
+    },
+    {
+        "_id": "Инженер",
+        "total_employees": 85,
+        "avg_salary": 106731.63529411764
+    },
+    {
+        "_id": "Учитель",
+        "total_employees": 73,
+        "avg_salary": 105038.01369863014
+    },
+    {
+        "_id": "Бухгалтер",
+        "total_employees": 77,
+        "avg_salary": 101068.07792207792
+    }
+]
