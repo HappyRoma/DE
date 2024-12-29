@@ -71,6 +71,7 @@ weapon_counts.plot(kind='bar',x=weapon_counts.values, y=weapon_counts.index)
 plt.title('Количество преступлений по типу оружия')
 plt.xlabel('Тип оружия')
 plt.ylabel('Количество')
+plt.xticks(rotation=45, ha='right')
 plt.savefig(graphics_folder+'/weapon_count')
 plt.show()
 
@@ -96,7 +97,7 @@ plt.show()
 
 # 4. Гистограмма: Распределение возраста жертв
 plt.figure(figsize=(10, 6))
-plt.hist(df['Vict Age'].dropna(), bins=30, color='purple', alpha=0.7)
+plt.hist(df[df['Vict Age'] > 0]['Vict Age'].dropna(), bins=30, color='purple', alpha=0.7)
 plt.title('Распределение возраста жертв', fontsize=14)
 plt.xlabel('Возраст', fontsize=12)
 plt.ylabel('Частота', fontsize=12)
